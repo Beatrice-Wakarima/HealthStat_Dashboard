@@ -6,12 +6,7 @@ An interactive multi-page Power BI dashboard analyzing efficiency, cost structur
 
 This project simulates a real consulting engagement for HealthStat, providing insights and recommendations to optimize patient flow, reduce costs, and improve care quality.
 
-🔗 Live Dashboard (PDF Export)
-
-You can open the full PDF export of the dashboard here:
-👉 Add link after uploading to GitHub
-
-📁 Project Structure
+Project Structure
 HealthStat-Hospital-Efficiency-Dashboard/
 │
 ├── README.md
@@ -37,11 +32,11 @@ HealthStat-Hospital-Efficiency-Dashboard/
 Improving efficiency while maintaining high-quality patient care is an ongoing challenge for healthcare facilities.
 This project uses data-driven insights to:
 
-✔ Benchmark hospitals
-✔ Analyze Length of Stay (LOS) efficiency
-✔ Evaluate cost structures and profitability
-✔ Understand severity mix
-✔ Provide facility-level recommendations
+Benchmark hospitals
+Analyze Length of Stay (LOS) efficiency
+Evaluate cost structures and profitability
+Understand severity mix
+Provide facility-level recommendations
 
 The final deliverable is a 4-page Power BI dashboard with automated benchmarking and recommendations.
 
