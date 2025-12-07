@@ -10,6 +10,7 @@ Project Structure
 HealthStat-Hospital-Efficiency-Dashboard/
 │
 ├── README.md
+│
 ├── data/
 │   ├── raw/
 │   └── data_dictionary.xlsx
@@ -18,13 +19,17 @@ HealthStat-Hospital-Efficiency-Dashboard/
 │   ├── HealthStat Dashboard.pbix
 │   ├── Dashboard_PDF_Export.pdf
 │   └── screenshots/
+│       ├── executive_overview.png
+│       ├── los_comparison.png
+│       ├── cost_comparison.png
+│       └── hospital_profile.png
 │
-├── docs/
-│   ├── project_summary.md
-│   ├── methodology.md
-│   ├── recommendations.md
-│   ├── dax_measures.md
-│   └── visuals_overview.md
+└── docs/
+    ├── project_summary.md
+    ├── methodology.md
+    ├── recommendations.md
+    ├── dax_measures.md
+    └── visuals_overview.md
 
 
 1. Executive Summary
